@@ -1,1 +1,2 @@
-# Hci lab1
+# Pup-Up
+Front-end design of a hypothetical website called Pup-Up, built using Bootstrap framework with HTML and CSS. Pup-Up is a doggy-daycare, a safe and fun place for dogs, when their owners are on work or a vacation. Website presents all the services that this doggy-daycare has to offer, the team of workers and volunteers who are employed in it, as well as a dedicated place where the center itself can be contacted for the purpose of collaboration. 
